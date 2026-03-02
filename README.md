@@ -1,4 +1,4 @@
-# AI Research Assist (Under Development)
+source venv/bin/activate# AI Research Assist (Under Development)
 
 ## Description
 
